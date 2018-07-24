@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MySocket.iml" filepath="$PROJECT_DIR$/.idea/MySocket.iml" />
+      <module fileurl="file://D:\Users\qf\PycharmProjects\TestBaidu\.idea\TestBaidu.iml" filepath="D:\Users\qf\PycharmProjects\TestBaidu\.idea\TestBaidu.iml" />
+    </modules>
+  </component>
+</project>
